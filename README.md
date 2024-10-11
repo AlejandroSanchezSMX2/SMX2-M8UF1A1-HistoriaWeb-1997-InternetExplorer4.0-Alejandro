@@ -8,6 +8,6 @@
 ### Internet Explorer 4.0 en Windows 98.
 |Desarrollador |Microsoft |
 |:------------:|:------------:|
-|Versión Inicial |1997 |
-
+|Versión Inicial |Septembre de 1997|
+|Llançament estable |4.01 SP2 (4.72.3612.1713) 16 de març de 1997|
 
