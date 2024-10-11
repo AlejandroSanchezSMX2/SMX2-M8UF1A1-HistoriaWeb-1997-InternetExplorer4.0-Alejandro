@@ -13,5 +13,6 @@
 |Sistema Operatiu |Windows 95|
 |Suport |Navegació sense connexió, HTML dinàmic, MV Java més ràpida|
 
+### Foto de Internet Explorer:
 ![Internet Explorer 4.0](https://github.com/AlejandroSanchezSMX2/SMX2-M8UF1A1-HistoriaWeb-1997-InternetExplorer4.0-Alejandro/blob/main/InternetExplorer4.0.jpg "Internet Explorer 4.0")
 
