@@ -10,4 +10,6 @@
 |:------------:|:------------:|
 |Versión Inicial |Septembre de 1997|
 |Llançament estable |4.01 SP2 (4.72.3612.1713) 16 de març de 1997|
+|Sistema Operatiu |Windows 95|
+|Suport |Navegació sense connexió, HTML dinàmic, MV Java més ràpida|
 
